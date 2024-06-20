@@ -27,7 +27,7 @@ export const Experiences = [
     year: "2019 Apr - 2023 Oct",
     role: "Student/Freelancer",
     company:"TASE",
-    description:"Got into TASE(The Audiophile School of Sound Engineering) via sponsorship to study auido engineering. Got trained to industry professionals in every domain within audio engineering. While studying freelanced by outsourcing projects for producers, composers and music labels.",
+    description:"Got into TASE(The Audiophile School of Sound Engineering) via sponsorship to study auido engineering. Got trained by industry professionals in every domain within audio engineering. While studying freelanced and outsourced projects for producers, composers and music labels.",
     technologies:["Logic-Pro", "Pro-Tools", "Ableton"],
     
 },
@@ -51,7 +51,7 @@ export const Projects = [
       
     },
     {
-        title:"SASS Product",
+        title:"SAAS Product",
         role:"Product Design",
         image:Bundle ,
         description:"Re-designed SAAS Application(Bundle-Buddy). Carried on through entire design process. Channelized user-navigation for better user-experience. Created seamless User Interface adhereing to Big-Commerce design system.", 

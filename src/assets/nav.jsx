@@ -1,10 +1,8 @@
 import {FaLinkedin} from 'react-icons/fa';
-import { FaCreativeCommonsBy } from "react-icons/fa";
 import { FaSquareXTwitter } from "react-icons/fa6";
-import { GrProjects } from "react-icons/gr";
 import { IoDownloadOutline } from "react-icons/io5";
 import resume from './Avinres.pdf';
-import About from './about';
+import { FaWhatsapp } from "react-icons/fa";
 
 export default function Nav() {
     return(
@@ -14,6 +12,7 @@ export default function Nav() {
   </nav>
   <div className='m-8 flex items-center justify-center gap-4 text 2x-l'>
     <a href={resume} target='_blank'><IoDownloadOutline className=' hover:text-lime-400'/></a>
+    <a href= "https://wa.me/918072639053" ><FaWhatsapp className='hover:text-lime-400' /></a>
     <a href='https://www.linkedin.com/in/avinash-ranganathan-828337171?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app' target='_blank'><FaLinkedin className=' hover:text-lime-400'/></a>
     <a href='https://x.com/Avinr28?t=JXSCUqiBviDvBfQjx7QlvA&s=09' target='_blank'><FaSquareXTwitter className=' hover:text-lime-400'/></a>
   </div>
