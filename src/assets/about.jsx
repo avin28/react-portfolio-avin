@@ -1,4 +1,4 @@
-import pic from './prof.jpeg'
+import pic from './pic.jpeg'
 import {motion} from 'framer-motion'
 
 export default function About() {
