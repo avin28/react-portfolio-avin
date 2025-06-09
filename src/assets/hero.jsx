@@ -29,13 +29,13 @@ export default function Hero() {
        initial= "hidden"
        animate= "visible"
        className="py-2 bg-gradient-to-r from-lime-400 yellow-200 to-lime-100 
-       bg-clip-text text-2xl tracking-tight text-transparent ">UI UX Designer</motion.h4>
+       bg-clip-text text-2xl tracking-tight text-transparent ">UI UX Design & Management Professional</motion.h4>
       <motion.p 
         variants={Cont(0.75)}
        initial= "hidden"
        animate= "visible"
-      className="py-3 font-light text-xs md:max-w-md sm:w-screen leading-5">A Passionate UI/UX Designer with 6 years of experience 
-      having worked from Web Applications to Saas Products.Well-versed with entire
+      className="py-3 font-light text-xs md:max-w-md sm:w-screen leading-5">A Passionate Professional with 7 years of experience 
+      having worked in Management and UI/UX ranging from Web Applications to Saas Products.Well-versed with entire
       design process and efficient with tools like Figma , AdobeXD , Zeplin , UX-Pin . I 
       have also continuously honed my skills in understanding Front-end technologies like Html , CSS ,
       Javascript , and Frame-works like Tailwind Css , Bootstrap , React , Native to ensure top User-experience and design standards.</motion.p>
