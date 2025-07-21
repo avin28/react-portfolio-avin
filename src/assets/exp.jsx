@@ -25,7 +25,7 @@ export default function Exp() {
                         </h6>
                         <p className="text-xs font-light text-neutral-400">{experience.description}</p>
                         {experience.technologies.map ((tech ,index)=>
-                          <span key={index} className="mr-2 mt-6 rounded bg-lime-400 px-2 py-2 text-xs
+                          <span key={index} className="mr-2 mt-6 rounded bg-lime-400 px-2  text-xs
                            font-medium text-zinc-900">{tech}</span>
                         )}
 
