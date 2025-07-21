@@ -17,18 +17,18 @@ export const Experiences = [
 },
 
 {
-    year: "2023 Nov - Present",
+    year: "Present",
     role: "UI/UX Designer",
     company: "Freelancer",
     description: "Secured a freelance project from a Malaysian ed-tech start-up.Worked as a priciple product designer creating product from the scratch running through the entire design process. Collaborated with the stakeholders to define project requirements and timelines.",
-    technologies:["Figma", "AdobeXD", "Html", "CSS", "Bootstrap"],
+    technologies:["Figma", "AdobeXD", "Html", "CSS", "Bootstrap","React","Python"],
 },
 {
     year: "2019 Apr - 2023 Oct",
     role: "Career Break/Freelancer",
     company:"TASE",
-    description:"Got into TASE(The Audiophile School of Sound Engineering) via sponsorship to study auido engineering. Got trained by industry professionals in every domain within audio engineering. While studying freelanced and outsourced projects for producers, composers and music labels.<br>Provided full time care for a family member.<br>Freelanced as a Management Executive , Providing interim management support during COVID-19, ensuring operational continuity.",
-    technologies:["Logic-Pro", "Pro-Tools", "Ableton"],
+    description:"Got into TASE(The Audiophile School of Sound Engineering) via sponsorship to study auido engineering. Got trained by industry professionals in every domain within audio engineering. While studying freelanced and outsourced projects for producers, composers and music labels.\nProvided full time care for a family member.\nFreelanced as a Management Executive , Providing interim management support during COVID-19, ensuring operational continuity.",
+    technologies:["Logic-Pro", "Pro-Tools", "Ableton" , "Figma" , "HRMS"],
     
 },
 {    
