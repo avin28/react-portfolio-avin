@@ -19,7 +19,7 @@ export const Experiences = [
     year: "2019 Apr - 2023 Oct",
     role: "Career Break/Freelancer",
     company:"TASE",
-    description:"Got into TASE(The Audiophile School of Sound Engineering) via sponsorship to study auido engineering. Got trained by industry professionals in every domain within audio engineering. While studying freelanced and outsourced projects for producers, composers and music labels.\nProvided full time care for a family member.\n Freelanced as a Management Executive , Providing interim management support during COVID-19, ensuring operational continuity.",
+    description:"Got into TASE(The Audiophile School of Sound Engineering) via sponsorship to study auido engineering. Got trained by industry professionals in every domain within audio engineering. While studying freelanced and outsourced projects for producers, composers and music labels.\nProvided full time care for a family member. \nFreelanced as a Management Executive , Providing interim management support during COVID-19, ensuring operational continuity.",
     technologies:["Logic-Pro", "Pro-Tools", "Ableton" , "Figma" , "HRMS"],
     
 },
