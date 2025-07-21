@@ -1,6 +1,6 @@
 import pic from './pic.jpeg'
 import {motion} from 'framer-motion'
-import picture from './profile.png'
+import picture from './prof.jpg'
 
 export default function About() {
     return(
