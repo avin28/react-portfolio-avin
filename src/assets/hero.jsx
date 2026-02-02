@@ -29,16 +29,12 @@ export default function Hero() {
        initial= "hidden"
        animate= "visible"
        className="py-2 bg-gradient-to-r from-lime-400 yellow-200 to-lime-100 
-       bg-clip-text text-2xl tracking-tight text-transparent ">UI UX Design & Management Professional</motion.h4>
+       bg-clip-text text-2xl tracking-tight text-transparent ">UI UX Design & Audio Engineering Professional</motion.h4>
       <motion.p 
         variants={Cont(0.75)}
        initial= "hidden"
        animate= "visible"
-      className="py-3 font-light text-xs md:max-w-md sm:w-screen leading-5">A Passionate Professional with 7 years of experience 
-      having worked in Management and UI/UX ranging from Web Applications to Saas Products.Well-versed with entire
-      design process and efficient with tools like Figma , AdobeXD , Zeplin , UX-Pin . I 
-      have also continuously honed my skills in understanding Front-end technologies like Html , CSS ,
-      Javascript , and Frame-works like Tailwind Css , Bootstrap , React , Native to ensure top User-experience and design standards.</motion.p>
+      className="py-3 font-light text-xs md:max-w-md sm:w-screen leading-5">Versatile Audio Engineer, Sound Designer & UI/UX Professional with 7+ years in design and specialized audio training. Expert in Logic Pro, Pro Tools, Ableton Live for mixing, mastering, sound design & post-production. Freelance music producer, lyricist, vocalist; original songs streaming publicly. Taught music online to NRI students. Featured vocalist for Tamil composer Kevin (Renowned Music Composer Deva crew affiliate, Dec 2025). Seeking remote/freelance roles in audio production, sound design, music tech, or hybrid audio-UI (e.g., audio tools/software, ed-tech multimedia).</motion.p>
       
     </div>
     

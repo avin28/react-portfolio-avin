@@ -1,7 +1,7 @@
 import {FaLinkedin} from 'react-icons/fa';
 import { FaSquareXTwitter } from "react-icons/fa6";
 import { IoDownloadOutline } from "react-icons/io5";
-import resume from 'D:\React\my-portfolio\src\assets\Avinash_R_Audio_UI_Resume.pdf';
+import resume from 'Avinash_R_Audio_UI_Resume.pdf';
 import { FaWhatsapp } from "react-icons/fa";
 
 export default function Nav() {
