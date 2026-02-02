@@ -1,4 +1,4 @@
-import pic from './pic.jpg'
+import pic from './prof.jpg'
 import {motion} from 'framer-motion'
 
 const Cont = (delay)=>({

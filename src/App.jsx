@@ -1,6 +1,5 @@
 import Nav from './assets/nav.jsx'
 import Hero from './assets/hero.jsx'
-import About from './assets/about.jsx'
 import Tech from './assets/Tech.jsx'
 import Exp from './assets/exp.jsx'
 import Pro from './projects.jsx'
