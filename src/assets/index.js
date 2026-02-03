@@ -4,6 +4,8 @@ import Fiddle from './Fiddleheads-Coffee.png';
 import Brain from './BRAINOBRAIN.png';
 import FMS from './FMS.png';
 import Port from './port.png';
+import Aval from './Aval.png';
+import dkn from './dkn.png'
 
 
 export const Experiences = [
@@ -17,9 +19,9 @@ export const Experiences = [
 },
 {
     year: "2019 Apr - 2023 Oct",
-    role: "Career Break/Freelancer",
+    role: "Freelance Audio Engineer, Music Producer & Educator ",
     company:"TASE",
-    description:"Got into TASE(The Audiophile School of Sound Engineering) via sponsorship to study auido engineering. Got trained by industry professionals in every domain within audio engineering. While studying freelanced and outsourced projects for producers, composers and music labels.\nProvided full time care for a family member.\nFreelanced as a Management Executive , Providing interim management support during COVID-19, ensuring operational continuity.",
+    description:" Earned Diploma in Audio Engineering (TASE, Chennai): trained in acoustics, mixing, mastering, live sound, post-production.Mixed/mastered tracks for producers, composers, independent labels using Logic Pro, Pro Tools, Ableton.Produced, wrote lyrics for, and released original songs streaming on public platforms.Taught music remotely to NRI students (>1 year): vocals, songwriting, DAW techniques.",
     technologies:["Logic-Pro", "Pro-Tools", "Ableton" , "Figma" , "HRMS"],
     
 },
@@ -34,10 +36,10 @@ export const Experiences = [
 
 {
     year: "Present",
-    role: "UI/UX Designer",
+    role: "UI/UX Designer & Audio Engineer ",
     company: "Freelancer",
-    description: "Secured a freelance project from a Malaysian ed-tech start-up.Worked as a priciple product designer creating product from the scratch running through the entire design process. Collaborated with the stakeholders to define project requirements and timelines.",
-    technologies:["Figma", "AdobeXD", "Html", "CSS", "Bootstrap","React","Python"],
+    description: "Secured a freelance project.Worked as a priciple product designer creating product from the scratch running through the entire design process. Collaborated with the stakeholders to define project requirements and timelines.Provided vocals for track by composer/producer Kevin (Deva Tamil cinema crew), Dec 2025.",
+    technologies:["Figma", "AdobeXD", "Html", "CSS", "Bootstrap","React","Python","Pro Tools"],
 },
 
     
@@ -87,6 +89,20 @@ export const Projects = [
       image:Port,
       description:"Portfolio Website developed to exhibit my journey and skills." ,
       technologies:["ReactJS", "Vite", "TailwindCSS"]
+  },
+  {
+      title:"Song",
+      role:"Co-Compose / Production / Lyrics",
+      image:Aval,
+      description:"Co-Composed , Produced , Penned Lyrics and Recorded Indie Song." ,
+      technologies:["Abletion Live", "Pro-Tools"]
+  },
+  {
+      title:"Vocal Recording",
+      role:"Singing",
+      image:dkn,
+      description:"Sung and Performed a Gospel Song for a leading Producer kevin as a Backing Vocalist." ,
+      technologies:["Logic-Pro","Sennheiser"]
   },
   ]
   

@@ -14,7 +14,7 @@ function App() {
     <div className='container mx-auto px-8'>
      <Nav/>
      <Hero/>
-     <About/>
+    
      <Tech/>
      <Exp/>
      <Pro/>

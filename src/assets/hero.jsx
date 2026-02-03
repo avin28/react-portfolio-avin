@@ -8,7 +8,7 @@ const Cont = (delay)=>({
 
 export default function Hero() {
     return(
-        <div className="hero border-b border-neutral-900 pb-4 lg:mb-35" >
+        <div className="hero border-b border-neutral-900 lg:mb-35 pb-24" >
         <div className='container mx-auto'>
          <div className="hero-content flex-col md:flex-row-reverse md:w-full justify-center items-center md:justify-between">
          <div className='sm:w-full sm:justify-center sm:items-center'>
@@ -23,7 +23,7 @@ export default function Hero() {
        variants={Cont(0)}
        initial= "hidden"
        animate= "visible"
-       className="text-5xl font-light">AVINASH</motion.h1>
+       className="text-5xl font-light md:text-start sm:text-center">AVINASH</motion.h1>
       <motion.h4 
        variants={Cont(0.5)}
        initial= "hidden"
@@ -34,7 +34,7 @@ export default function Hero() {
         variants={Cont(0.75)}
        initial= "hidden"
        animate= "visible"
-      className="py-3 font-light text-xs md:max-w-md sm:w-screen leading-5">Versatile Audio Engineer, Sound Designer & UI/UX Professional with 7+ years in design and specialized audio training. Expert in Logic Pro, Pro Tools, Ableton Live for mixing, mastering, sound design & post-production. Freelance music producer, lyricist, vocalist; original songs streaming publicly. Taught music online to NRI students. Featured vocalist for Tamil composer Kevin (Renowned Music Composer Deva crew affiliate, Dec 2025). Seeking remote/freelance roles in audio production, sound design, music tech, or hybrid audio-UI (e.g., audio tools/software, ed-tech multimedia).</motion.p>
+      className="py-3 font-light text-xs lg:max-w-[65vw] md:max-w-md sm:w-screen leading-5">Versatile Audio Engineer, Sound Designer & UI/UX Professional with 7+ years in design and specialized audio training. Expert in Logic Pro, Pro Tools, Ableton Live for mixing, mastering, sound design & post-production. Freelance music producer, lyricist, vocalist; original songs streaming publicly. Taught music online to NRI students. Featured vocalist for Tamil composer Kevin (Renowned Music Composer Deva crew affiliate, Dec 2025). Seeking remote/freelance roles in audio production, sound design, music tech, or hybrid audio-UI (e.g., audio tools/software, ed-tech multimedia).</motion.p>
       
     </div>
     

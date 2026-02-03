@@ -5,6 +5,9 @@ import { SiAdobe } from "react-icons/si";
 import { RiTailwindCssFill } from "react-icons/ri";
 import { FaBootstrap } from "react-icons/fa";
 import { GiZeppelin } from "react-icons/gi";
+import { SiProtools } from "react-icons/si";
+import ableton from '../assets/abletonlive.svg';
+import logic from "../assets/logic_pro_x.svg";
 import {animate, motion} from 'framer-motion'
 
 
@@ -66,7 +69,27 @@ export default function Tech() {
             className="rounded-2xl border-2 border-neutral-800 p-4 ">
             <FaBootstrap className="text-2xl text-purple-500"/>
             </motion.div>
-            
+              <motion.div 
+      whileInView={{x:0,opacity:1}}
+          initial={{opacity:0,x:100}}
+          transition={{duration:0.5}}
+            className="rounded-2xl border-2 border-neutral-800 p-4 ">
+            <SiProtools className="text-2xl text-purple-500"/>
+            </motion.div>
+            <motion.div 
+      whileInView={{x:0,opacity:1}}
+          initial={{opacity:0,x:100}}
+          transition={{duration:0.5}}
+            className="rounded-2xl border-2 border-neutral-800 p-4 ">
+            <img src= {ableton} className="text-2xl w-6 h-6 p-1 bg-yellow-500"/>
+            </motion.div>
+            <motion.div 
+      whileInView={{x:0,opacity:1}}
+          initial={{opacity:0,x:100}}
+          transition={{duration:0.5}}
+            className="rounded-2xl border-2 border-neutral-800 p-4 ">
+            <img src={logic} className="text-xl w-6 h-6 text-purple-500"/>
+            </motion.div>
         </div>
         </div>
     )
